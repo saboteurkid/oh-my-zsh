@@ -87,3 +87,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+
+# Bullet-train themes custom to show full directory.
+BULLETTRAIN_DIR_EXTENDED=2
+
