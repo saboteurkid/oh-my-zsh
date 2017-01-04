@@ -307,7 +307,7 @@ fi
 # ------------------------------------------------------------------------------
 
 CURRENT_BG='NONE'
-SEGMENT_SEPARATOR=''
+SEGMENT_SEPARATOR='►'
 
 # Begin a segment
 # Takes three arguments, background, foreground and text. All of them can be omitted,
